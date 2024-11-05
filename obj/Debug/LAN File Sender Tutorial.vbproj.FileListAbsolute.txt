@@ -1,0 +1,22 @@
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\bin\Debug\LAN File Sender Tutorial.exe
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\bin\Debug\LAN File Sender Tutorial.pdb
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\bin\Debug\LAN File Sender Tutorial.xml
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN_File_Sender_Tutorial.Form1.resources
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN_File_Sender_Tutorial.Resources.resources
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.vbproj.GenerateResource.Cache
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.exe
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.xml
+c:\users\bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.pdb
+C:\Users\Bassel\documents\visual studio 2012\Projects\LAN File Sender Tutorial\LAN File Sender Tutorial\bin\Debug\Winsock2005DLL.dll
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\bin\Debug\LAN File Sender Tutorial.exe
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\bin\Debug\LAN File Sender Tutorial.pdb
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\bin\Debug\LAN File Sender Tutorial.xml
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.vbproj.AssemblyReference.cache
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN_File_Sender_Tutorial.Form1.resources
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN_File_Sender_Tutorial.Resources.resources
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.vbproj.GenerateResource.cache
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File.70BF1606.Up2Date
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.exe
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.xml
+C:\Users\Danilo\Desktop\LANFileSender_Tutorial\LAN File Sender Tutorial\LAN File Sender Tutorial\obj\Debug\LAN File Sender Tutorial.pdb
